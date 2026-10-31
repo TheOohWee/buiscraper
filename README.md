@@ -1,5 +1,7 @@
 # buiscraper (software systems extra credit: part b)
 
+Student: Amir Tomashpayev
+
 A small Python scraper that fetches random Wikipedia articles and prints each title with a short intro.
 
 ## Setup
